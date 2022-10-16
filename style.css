@@ -1,5 +1,11 @@
 li{
 	background-color: #cd853f;
-	text-decoration-color: none;
 	display: inline-block;
+}
+
+a{
+	text-decoration: none;
+}
+a:visited{
+	color: white;
 }
