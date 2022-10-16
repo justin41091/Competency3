@@ -1,11 +1,31 @@
 li{
 	background-color: #cd853f;
 	display: inline-block;
+	margin: 5px 5px;
+	padding: 5px 1rem;
 }
 
 a{
+	color: #808000;
+	font-family: "Barlow Condensed", "futura PT";
 	text-decoration: none;
 }
+
 a:visited{
 	color: white;
+
+}
+
+a:hover{
+
+color: #ff4500;
+}
+
+a:active{
+	color: #ffff00;
+}
+
+header{
+padding-top: 1rem;
+text-align: center;
 }
