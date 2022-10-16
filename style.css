@@ -1,3 +1,5 @@
-body{
-background: darkred;
+li{
+	background-color: #cd853f;
+	text-decoration-color: none;
+	display: inline-block;
 }
